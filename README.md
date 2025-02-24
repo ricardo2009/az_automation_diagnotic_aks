@@ -1,0 +1,1 @@
+# az_automation_diagnotic_aks
