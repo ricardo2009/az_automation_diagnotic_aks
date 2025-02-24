@@ -8,8 +8,8 @@ import importlib.util
 
 # Define os prompts
 
-ENDPOINT = "https://ai-ricardolima3473ai595268058602.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-08-01-preview"
-API_KEY="6CDfkgnJBT5KU9VggwZEk29wX14X5auOgE76Jc2FP5wMgIa39u8lJQQJ99BBACHYHv6XJ3w3AAAAACOGXxyB"
+ENDPOINT = ""
+API_KEY=""
 
 # Carrega dinamicamente o módulo k8s.py para extrair os endpoints da API
 def get_k8s_endpoints():
